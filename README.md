@@ -27,10 +27,6 @@ pray for it to end</br>
 
 this haiku was brought to you by Brawndo. Brawndo has was plants crave! They've got electrolytes.
 
-## Results
-
-
-
 ## Conclusions
 
 This analysis leads to three recommendations for a succesful foray into the realm of movie magic:
