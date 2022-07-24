@@ -1,6 +1,6 @@
 ![ItLooms](./Images/msft.jpeg)
 
-# Micrsoft Independent Life Films
+# Microsoft Independent Life Films
 ### To Preface, a Note About Data Collection
 
 In the data api notebook you will notice that our team wrote a program that takes data directly from 'The Movie Database' API. While you are more than welcome to run that query and get the most up-to-date data, be wary that the query will take between two and three hours to run.
